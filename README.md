@@ -1,8 +1,8 @@
 
 
-# Awesome papers for large-scale graphs
+# Awesome gnn on large-scale graphs 
 
-Papers about methods or neural networks for large-scale graphs. Aiming to solve the memory bottleneck problem for the large-scale graphs, many training strategies such as node-wise, layer-wise and subgraph sampling are widely explored. In addition, there are also some works designing specific neural networks to solve this problem. 
+Papers about methods or graph neural networks (GNNs) on large-scale graphs. Aiming to solve the memory bottleneck problem of GNNs on large-scale graphs, many training strategies such as node-wise, layer-wise, and subgraph sampling are widely explored. In addition, there are also some works designing specific GNNs to solve this problem. 
 
 **Welcome to submit a pull request to add more awesome papers.**
 
