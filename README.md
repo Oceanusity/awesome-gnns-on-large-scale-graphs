@@ -17,7 +17,7 @@ Papers about methods or graph neural networks (GNNs) on large-scale graphs. Aimi
 ----
 
 * [ICLR 2020] GraphSAINT: Graph Sampling Based Inductive Learning Method. [[paper](https://arxiv.org/abs/1907.04931)] [[code](https://github.com/GraphSAINT/GraphSAINT)] 
-* [KDD 2020] Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks. [[paper](https://arxiv.org/abs/2006.13866)] 
+* [KDD 2020] Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks. [[paper](https://arxiv.org/abs/2006.13866)] [[code](https://github.com/CongWeilin/mvs_gcn)]
 * [KDD 2020] Scaling Graph Neural Networks with Approximate PageRank. [[paper](https://arxiv.org/abs/2007.01570)] [[TensorFlow](https://github.com/TUM-DAML/pprgo_tensorflow)]  [[PyTorch](https://github.com/TUM-DAML/pprgo_pytorch)] [[web](https://www.in.tum.de/daml/pprgo/)]
 * [ICML Workshop 2020] SIGN: Scalable Inception Graph Networks. [[paper](https://arxiv.org/abs/2004.11198)] [[code](https://github.com/twitter-research/sign)] 
 * [ICML 2020] Simple and Deep Graph Convolutional Networks. [[paper](https://arxiv.org/abs/2007.02133)] [[code](https://github.com/chennnM/GCNII)] 
