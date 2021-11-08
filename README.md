@@ -10,7 +10,9 @@ Papers about methods or graph neural networks (GNNs) on large-scale graphs. Aimi
 
 ----
 
+* [ICLR 2021] Combining Label Propagation and Simple Models Out-performs Graph Neural Networks. [[paper](https://arxiv.org/abs/2010.13993)] [[code](https://github.com/CUAI/CorrectAndSmooth)]
 * [ICML 2021] GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings. [[paper]](https://arxiv.org/abs/2106.05609)  [[code]](https://github.com/rusty1s/pyg_autoscale) 
+
 
 2020
 
@@ -27,9 +29,11 @@ Papers about methods or graph neural networks (GNNs) on large-scale graphs. Aimi
 
 ---
 
-* [KDD 2019] Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks. [[paper](https://arxiv.org/abs/1905.07953)] [[TensorFlow](https://github.com/google-research/google-research/tree/34444253e9f57cd03364bc4e50057a5abe9bcf17/cluster_gcn)] [[PyTorch](https://github.com/benedekrozemberczki/ClusterGCN)] 
-* [NeurIPS 2019] Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks. [[paper](https://arxiv.org/abs/1911.07323)] [[code](https://github.com/acbull/LADIES)] 
+* [ICLR 2019] Predict then Propagate: Graph Neural Networks meet Personalized PageRank. [[paper](https://arxiv.org/abs/1810.05997)] [[code](https://github.com/benedekrozemberczki/APPNP)]
+* [KDD 2019] Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks. [[paper](https://arxiv.org/abs/1905.07953)] [[TensorFlow](https://github.com/google-research/google-research/tree/34444253e9f57cd03364bc4e50057a5abe9bcf17/cluster_gcn)] [[PyTorch](https://github.com/benedekrozemberczki/ClusterGCN)]  
 * [ICML 2019] Simplifying Graph Convolution Networks. [[paper](https://arxiv.org/abs/1902.07153)] [[code](https://github.com/Tiiiger/SGC)] 
+* [NeurIPS 2019] Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks. [[paper](https://arxiv.org/abs/1911.07323)] [[code](https://github.com/acbull/LADIES)] 
+
 
 2018
 
