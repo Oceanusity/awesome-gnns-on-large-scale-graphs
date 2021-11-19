@@ -9,7 +9,7 @@ Papers about methods or graph neural networks (GNNs) on large-scale graphs. Aimi
 2021
 
 ----
-* [NeurIPs 2021] Decoupling the Depth and Scope of Graph Neural Networks. [[paper](https://openreview.net/forum?id=_IY3_4psXuf)] [[code](https://github.com/facebookresearch/shaDow_GNN)]
+* [NeurIPS 2021] Decoupling the Depth and Scope of Graph Neural Networks. [[paper](https://openreview.net/forum?id=_IY3_4psXuf)] [[code](https://github.com/facebookresearch/shaDow_GNN)]
 * [ICLR 2021] Combining Label Propagation and Simple Models Out-performs Graph Neural Networks. [[paper](https://arxiv.org/abs/2010.13993)] [[code](https://github.com/CUAI/CorrectAndSmooth)]
 * [ICML 2021] GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings. [[paper]](https://arxiv.org/abs/2106.05609)  [[code](https://github.com/rusty1s/pyg_autoscale)]
 
