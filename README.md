@@ -6,6 +6,11 @@ Papers about methods or graph neural networks (GNNs) on large-scale graphs. Aimi
 
 **Welcome to submit a pull request to add more awesome papers.**
 
+2022
+
+----
+* [ICLR 2022] PipeGCN: Efficient Full-Graph Training of Graph Convolutional Networks with Pipelined Feature Communication. [[paper](https://openreview.net/forum?id=kSwqMH0zn1F)] [[code](https://github.com/RICE-EIC/PipeGCN)]
+
 2021
 
 ----
