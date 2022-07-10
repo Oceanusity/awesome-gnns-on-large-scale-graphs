@@ -9,6 +9,7 @@ Papers about methods or graph neural networks (GNNs) on large-scale graphs. Aimi
 2022
 
 ----
+* [ICML 2022] GraphFM: Improving Large-Scale GNN Training via Feature Momentum [[paper](https://arxiv.org/abs/2206.07161)]
 * [ICLR 2022] PipeGCN: Efficient Full-Graph Training of Graph Convolutional Networks with Pipelined Feature Communication. [[paper](https://openreview.net/forum?id=kSwqMH0zn1F)] [[code](https://github.com/RICE-EIC/PipeGCN)]
 * [ICLR 2022] EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression. [[paper](https://openreview.net/forum?id=vkaMaq95_rX)] [[code](https://github.com/warai-0toko/Exact)]
 
