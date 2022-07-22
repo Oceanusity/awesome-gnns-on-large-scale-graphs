@@ -9,7 +9,8 @@ Papers about methods or graph neural networks (GNNs) on large-scale graphs. Aimi
 2022
 
 ----
-* [ICML 2022] GraphFM: Improving Large-Scale GNN Training via Feature Momentum [[paper](https://arxiv.org/abs/2206.07161)]
+* [ICML 2022] GraphFM: Improving Large-Scale GNN Training via Feature Momentum. [[paper](https://arxiv.org/abs/2206.07161)]
+* [ICML 2022] Generalization Guarantee of Training Graph Convolutional Networks with Graph Topology Sampling. [[paper](https://arxiv.org/abs/2207.03584)]
 * [ICLR 2022] PipeGCN: Efficient Full-Graph Training of Graph Convolutional Networks with Pipelined Feature Communication. [[paper](https://openreview.net/forum?id=kSwqMH0zn1F)] [[code](https://github.com/RICE-EIC/PipeGCN)]
 * [ICLR 2022] EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression. [[paper](https://openreview.net/forum?id=vkaMaq95_rX)] [[code](https://github.com/warai-0toko/Exact)]
 
@@ -19,7 +20,7 @@ Papers about methods or graph neural networks (GNNs) on large-scale graphs. Aimi
 * [NeurIPS 2021] Decoupling the Depth and Scope of Graph Neural Networks. [[paper](https://openreview.net/forum?id=_IY3_4psXuf)] [[code](https://github.com/facebookresearch/shaDow_GNN)]
 * [NeurIPS 2021] VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization.  [[paper](https://arxiv.org/abs/2110.14363)]
 * [ICLR 2021] Combining Label Propagation and Simple Models Out-performs Graph Neural Networks. [[paper](https://arxiv.org/abs/2010.13993)] [[code](https://github.com/CUAI/CorrectAndSmooth)]
-* [KDD 2021] Scaling up graph neural networks via graph coarsening. [[paper](https://arxiv.org/pdf/2106.05150.pdf)]
+* [KDD 2021] Scaling Up Graph Neural Networks Via Graph Coarsening. [[paper](https://arxiv.org/pdf/2106.05150.pdf)]
 * [ICML 2021] GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings. [[paper](https://arxiv.org/abs/2106.05609)]  [[code](https://github.com/rusty1s/pyg_autoscale)]
 
 
