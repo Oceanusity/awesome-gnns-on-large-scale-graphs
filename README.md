@@ -11,7 +11,7 @@ Papers about methods or graph neural networks (GNNs) on large-scale graphs. Aimi
 
 ----
 * [ICLR 2023] MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization. [[paper](https://arxiv.org/pdf/2210.00102.pdf)]
-* [ICLR 2023] LMC: Fast Training of GNNs via Subgraph Sampling with Provable Convergence [[openreview](https://openreview.net/forum?id=5VBBA91N6n)]
+* [ICLR 2023] LMC: Fast Training of GNNs via Subgraph Sampling with Provable Convergence. [[openreview](https://openreview.net/forum?id=5VBBA91N6n)]
 
 
 2022
