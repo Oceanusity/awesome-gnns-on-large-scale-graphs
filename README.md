@@ -22,6 +22,7 @@ Papers about methods or graph neural networks (GNNs) on large-scale graphs. Aimi
 * [ICLR 2022] PipeGCN: Efficient Full-Graph Training of Graph Convolutional Networks with Pipelined Feature Communication. [[paper](https://openreview.net/forum?id=kSwqMH0zn1F)] [[code](https://github.com/RICE-EIC/PipeGCN)]
 * [ICLR 2022] EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression. [[paper](https://openreview.net/forum?id=vkaMaq95_rX)] [[code](https://github.com/warai-0toko/Exact)]
 * [VLDB 2022] SANCUS: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks. [[paper](https://dl.acm.org/doi/10.14778/3538598.3538614)] [[code](https://github.com/chenzhao/light-dist-gnn)]
+* [NeruIPS 2022 Datasets and Benchmarks Track] A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking. [[paper](https://arxiv.org/pdf/2210.07494.pdf)] [[code](https://github.com/VITA-Group/Large_Scale_GCN_Benchmarking)]
 
 2021
 
