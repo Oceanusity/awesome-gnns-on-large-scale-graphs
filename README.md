@@ -7,8 +7,8 @@ Papers about methods or graph neural networks (GNNs) on large-scale graphs. Aimi
 **Welcome to submit a pull request to add more awesome papers.**
 
 
-* [survey] A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware. [[paper](https://arxiv.org/pdf/2306.14052.pdf)]
-* [turtorial] Large-Scale Graph Neural Networks: The Past and New Frontiers. [[homepage](https://sites.google.com/ncsu.edu/gnnkdd2023tutorial/home)]
+* [Survey] A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware. [[paper](https://arxiv.org/pdf/2306.14052.pdf)]
+* [Tutorial] Large-Scale Graph Neural Networks: The Past and New Frontiers. [[homepage](https://sites.google.com/ncsu.edu/gnnkdd2023tutorial/home)]
 
 2023
 
