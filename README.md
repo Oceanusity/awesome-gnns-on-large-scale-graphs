@@ -7,11 +7,16 @@ Papers about methods or graph neural networks (GNNs) on large-scale graphs. Aimi
 **Welcome to submit a pull request to add more awesome papers.**
 
 
+* [survey] A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware [[paper](https://arxiv.org/pdf/2306.14052.pdf)]
+* [turtorial] Large-Scale Graph Neural Networks: The Past and New Frontiers [[homepage](https://sites.google.com/ncsu.edu/gnnkdd2023tutorial/home)]
+
 2023
 
 ----
+* [ICML 2023] LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation. [[paper](https://arxiv.org/abs/2302.01503)]
 * [ICLR 2023] MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization. [[paper](https://arxiv.org/pdf/2210.00102.pdf)]
 * [ICLR 2023] LMC: Fast Training of GNNs via Subgraph Sampling with Provable Convergence. [[openreview](https://openreview.net/forum?id=5VBBA91N6n)]
+
 
 
 2022
